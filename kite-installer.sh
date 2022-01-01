@@ -239,3 +239,5 @@ case "$mode" in
     installKite "$downloadFile" "--no-launch"
     ;;
 esac
+
+echo
