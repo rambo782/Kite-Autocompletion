@@ -240,4 +240,3 @@ case "$mode" in
     ;;
 esac
 
-echo
